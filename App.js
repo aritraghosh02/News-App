@@ -5,6 +5,7 @@
  * @format
  * @flow strict-local
  */
+// The root file of the project
 
 import React from 'react';
 
